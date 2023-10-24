@@ -10,17 +10,17 @@ UML DIAGRAM
 
 
 Prog01_aOrderedList
-----------------------------------
+-----
  
 main(args: String[])
 + GetInputFile(UserPrompt: String) : Scanner+ GetOutputFile(UserPrompt: String) : PrintWriter
----------------------------------
+-------
                   |
                   |
                   v
-----------------------------------
+----
               aOrderedList
-----------------------------------
+-----
  
 oList: Comparable[]
 listSize: int
