@@ -1,5 +1,7 @@
 # Project1
 
+Authors -> Sammy Khalaf and Aiden Kirk
+
 This program was designed to manage a list of cars. It takes and reads car data
 from an input file, which allowed you to add or remove cars based on specifics and then writes the updated list of cars to an output file.  
 
